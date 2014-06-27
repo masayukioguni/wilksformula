@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Wilksformula::VERSION
   spec.authors       = ["masayuki_oguni"]
   spec.email         = ["masayuki_oguni.dev@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{The Wilks formula is used in IPF meets to determine the best lifter by formula.}
+  spec.description   = %q{The Wilks formula is used in IPF meets to determine the best lifter by formula. A table is used to determine the factor to multiply by the lifters total or single lift to give the Wilks Total..}
   spec.homepage      = ""
   spec.license       = "MIT"
 
